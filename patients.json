@@ -1,0 +1,159 @@
+{
+    "P001": {
+        "name": "Arjun Verma",
+        "city": "Mumbai",
+        "age": 40,
+        "gender": "Male",
+        "height": 1.8,
+        "weight": 80,
+        "email": "arjun@hdfc.com",
+        "married": false,
+        "allergies": [
+            "Peanuts"
+        ],
+        "contact_details": {
+            "number": "9876543210",
+            "email": "arjun@hdfc.com"
+        }
+    },
+    "P002": {
+        "name": "Priya Sharma",
+        "city": "Delhi",
+        "age": 29,
+        "gender": "Female",
+        "height": 1.65,
+        "weight": 60,
+        "email": "priya@icici.com",
+        "married": true,
+        "allergies": [
+            "None"
+        ],
+        "contact_details": {
+            "number": "9123456780",
+            "email": "priya@icici.com"
+        }
+    },
+    "P003": {
+        "name": "Rahul Singh",
+        "city": "Bangalore",
+        "age": 35,
+        "gender": "Male",
+        "height": 1.75,
+        "weight": 72,
+        "email": "rahul@hdfc.com",
+        "married": true,
+        "allergies": [
+            "Dust"
+        ],
+        "contact_details": {
+            "number": "9988776655",
+            "email": "rahul@hdfc.com"
+        }
+    },
+    "P004": {
+        "name": "Sneha Kapoor",
+        "city": "Mumbai",
+        "age": 50,
+        "gender": "Female",
+        "height": 1.6,
+        "weight": 80.0,
+        "email": "sneha@icici.com",
+        "married": false,
+        "allergies": [
+            "Pollen"
+        ],
+        "contact_details": {
+            "number": "9876501234",
+            "email": "sneha@icici.com"
+        },
+        "calculate_bmi": 31.25,
+        "verdict": "Obese"
+    },
+    "P005": {
+        "name": "Vikram Mehra",
+        "city": "Pune",
+        "age": 62,
+        "gender": "Male",
+        "height": 1.7,
+        "weight": 75,
+        "email": "vikram@hdfc.com",
+        "married": true,
+        "allergies": [
+            "None"
+        ],
+        "contact_details": {
+            "number": "9001122334",
+            "email": "vikram@hdfc.com",
+            "emergency": "9112233445"
+        }
+    },
+    "P006": {
+        "name": "Aarti Joshi",
+        "city": "Ahmedabad",
+        "age": 28,
+        "gender": "Female",
+        "height": 1.55,
+        "weight": 54,
+        "email": "aarti@icici.com",
+        "married": false,
+        "allergies": [
+            "Gluten"
+        ],
+        "contact_details": {
+            "number": "9090909090",
+            "email": "aarti@icici.com"
+        }
+    },
+    "P007": {
+        "name": "Rohan Gupta",
+        "city": "Kolkata",
+        "age": 45,
+        "gender": "Male",
+        "height": 1.82,
+        "weight": 85,
+        "email": "rohan@hdfc.com",
+        "married": true,
+        "allergies": [
+            "None"
+        ],
+        "contact_details": {
+            "number": "8888777766",
+            "email": "rohan@hdfc.com"
+        }
+    },
+    "P008": {
+        "name": "Meena Iyer",
+        "city": "Hyderabad",
+        "age": 38,
+        "gender": "Female",
+        "height": 1.68,
+        "weight": 70,
+        "email": "meena@icici.com",
+        "married": false,
+        "allergies": [
+            "Lactose"
+        ],
+        "contact_details": {
+            "number": "7777888899",
+            "email": "meena@icici.com"
+        }
+    },
+    "P009": {
+        "name": "Suresh Kumar",
+        "city": "Jaipur",
+        "age": 65,
+        "gender": "Male",
+        "height": 1.72,
+        "weight": 78,
+        "email": "suresh@hdfc.com",
+        "married": true,
+        "allergies": [
+            "None"
+        ],
+        "contact_details": {
+            "number": "6666555544",
+            "email": "suresh@hdfc.com",
+            "emergency": "9988776655"
+        }
+    }
+}
